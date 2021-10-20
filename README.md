@@ -45,8 +45,8 @@ This is **Neelmani**
 <!-- This Section has the github Stats and language Cards-->
 
 [![Neelmani GitHub stats](https://github-readme-stats.vercel.app/api?username=neelmani)](https://github.com/neelmani15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelmani15)](https://github.com/neelmani15/github-readme-stats)
 
-  
   
 <!--
 **AnubhavSrivastavaGithub/AnubhavSrivastavaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
