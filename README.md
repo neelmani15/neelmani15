@@ -44,12 +44,12 @@ This is **Neelmani**
 ***
 <!-- This Section has the github Stats and language Cards-->
 
-[![Neelmani GitHub stats](https://github-readme-stats.vercel.app/api?username=neelmani)](https://github.com/neelmani15/github-readme-stats)
+![Neelmani GitHub stats](https://github-readme-stats.vercel.app/api?username=neelmani15&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neelmani15)](https://github.com/neelmani15/github-readme-stats)
 
   
 <!--
-**AnubhavSrivastavaGithub/AnubhavSrivastavaGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**neelmani15/neelmani15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
